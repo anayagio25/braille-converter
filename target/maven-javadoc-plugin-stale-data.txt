@@ -1,0 +1,87 @@
+@options
+@packages
+-classpath
+'C:/Users/anaya/.m2/repository/jakarta/platform/jakarta.jakartaee-api/10.0.0/jakarta.jakartaee-api-10.0.0.jar;C:/Users/anaya/.m2/repository/jakarta/platform/jakarta.jakartaee-web-api/10.0.0/jakarta.jakartaee-web-api-10.0.0.jar;C:/Users/anaya/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar;C:/Users/anaya/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/3.1.0/jakarta.servlet.jsp-api-3.1.0.jar;C:/Users/anaya/.m2/repository/jakarta/el/jakarta.el-api/5.0.1/jakarta.el-api-5.0.1.jar;C:/Users/anaya/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar;C:/Users/anaya/.m2/repository/jakarta/faces/jakarta.faces-api/4.0.1/jakarta.faces-api-4.0.1.jar;C:/Users/anaya/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/3.1.0/jakarta.ws.rs-api-3.1.0.jar;C:/Users/anaya/.m2/repository/jakarta/websocket/jakarta.websocket-api/2.1.0/jakarta.websocket-api-2.1.0.jar;C:/Users/anaya/.m2/repository/jakarta/websocket/jakarta.websocket-client-api/2.1.0/jakarta.websocket-client-api-2.1.0.jar;C:/Users/anaya/.m2/repository/jakarta/json/jakarta.json-api/2.1.0/jakarta.json-api-2.1.0.jar;C:/Users/anaya/.m2/repository/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar;C:/Users/anaya/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar;C:/Users/anaya/.m2/repository/jakarta/ejb/jakarta.ejb-api/4.0.1/jakarta.ejb-api-4.0.1.jar;C:/Users/anaya/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar;C:/Users/anaya/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/anaya/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar;C:/Users/anaya/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.jar;C:/Users/anaya/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.jar;C:/Users/anaya/.m2/repository/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.jar;C:/Users/anaya/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar;C:/Users/anaya/.m2/repository/jakarta/authentication/jakarta.authentication-api/3.0.0/jakarta.authentication-api-3.0.0.jar;C:/Users/anaya/.m2/repository/jakarta/security/enterprise/jakarta.security.enterprise-api/3.0.0/jakarta.security.enterprise-api-3.0.0.jar;C:/Users/anaya/.m2/repository/jakarta/jms/jakarta.jms-api/3.1.0/jakarta.jms-api-3.1.0.jar;C:/Users/anaya/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar;C:/Users/anaya/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.0/jakarta.mail-api-2.1.0.jar;C:/Users/anaya/.m2/repository/jakarta/resource/jakarta.resource-api/2.1.0/jakarta.resource-api-2.1.0.jar;C:/Users/anaya/.m2/repository/jakarta/authorization/jakarta.authorization-api/2.1.0/jakarta.authorization-api-2.1.0.jar;C:/Users/anaya/.m2/repository/jakarta/batch/jakarta.batch-api/2.1.1/jakarta.batch-api-2.1.1.jar;C:/Users/anaya/.m2/repository/org/apache/derbyclient/derby-client/10.14.2.0/derby-client-10.14.2.0.jar;C:/Users/anaya/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/2.7.10/org.eclipse.persistence.core-2.7.10.jar;C:/Users/anaya/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/9.2.0/org.eclipse.persistence.asm-9.2.0.jar;C:/Users/anaya/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.antlr/2.7.10/org.eclipse.persistence.antlr-2.7.10.jar;C:/Users/anaya/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa/2.7.10/org.eclipse.persistence.jpa-2.7.10.jar;C:/Users/anaya/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.jpql/2.7.10/org.eclipse.persistence.jpa.jpql-2.7.10.jar;C:/Users/anaya/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.moxy/2.7.10/org.eclipse.persistence.moxy-2.7.10.jar;C:/Users/anaya/.m2/repository/org/eclipse/persistence/jakarta.persistence/2.2.3/jakarta.persistence-2.2.3.jar;C:/Users/anaya/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.modelgen.processor/2.7.10/org.eclipse.persistence.jpa.modelgen.processor-2.7.10.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/anaya/Downloads/BrailleConverterWeb_F5/BrailleConverterWeb/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/anaya/Downloads/BrailleConverterWeb_F5/BrailleConverterWeb/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BrailleConverterWeb-1.0 1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/anaya/Downloads/BrailleConverterWeb_F5/BrailleConverterWeb/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'BrailleConverterWeb-1.0 1.0 API'
+pl.polsl.braillemodel.giovanaanaya
+pl.polsl.servlets.giovanaanaya
+C:\Users\anaya\.m2\repository\jakarta\platform\jakarta.jakartaee-api\10.0.0\jakarta.jakartaee-api-10.0.0.jar = 1701346951931
+C:\Users\anaya\.m2\repository\jakarta\platform\jakarta.jakartaee-web-api\10.0.0\jakarta.jakartaee-web-api-10.0.0.jar = 1701346961169
+C:\Users\anaya\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar = 1701346954904
+C:\Users\anaya\.m2\repository\jakarta\servlet\jsp\jakarta.servlet.jsp-api\3.1.0\jakarta.servlet.jsp-api-3.1.0.jar = 1701346953564
+C:\Users\anaya\.m2\repository\jakarta\el\jakarta.el-api\5.0.1\jakarta.el-api-5.0.1.jar = 1701346954009
+C:\Users\anaya\.m2\repository\jakarta\servlet\jsp\jstl\jakarta.servlet.jsp.jstl-api\3.0.0\jakarta.servlet.jsp.jstl-api-3.0.0.jar = 1701346953418
+C:\Users\anaya\.m2\repository\jakarta\faces\jakarta.faces-api\4.0.1\jakarta.faces-api-4.0.1.jar = 1701346955503
+C:\Users\anaya\.m2\repository\jakarta\ws\rs\jakarta.ws.rs-api\3.1.0\jakarta.ws.rs-api-3.1.0.jar = 1701346955584
+C:\Users\anaya\.m2\repository\jakarta\websocket\jakarta.websocket-api\2.1.0\jakarta.websocket-api-2.1.0.jar = 1701346954892
+C:\Users\anaya\.m2\repository\jakarta\websocket\jakarta.websocket-client-api\2.1.0\jakarta.websocket-client-api-2.1.0.jar = 1701346955480
+C:\Users\anaya\.m2\repository\jakarta\json\jakarta.json-api\2.1.0\jakarta.json-api-2.1.0.jar = 1701346955812
+C:\Users\anaya\.m2\repository\jakarta\json\bind\jakarta.json.bind-api\3.0.0\jakarta.json.bind-api-3.0.0.jar = 1701346956107
+C:\Users\anaya\.m2\repository\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar = 1701346956108
+C:\Users\anaya\.m2\repository\jakarta\ejb\jakarta.ejb-api\4.0.1\jakarta.ejb-api-4.0.1.jar = 1701346956088
+C:\Users\anaya\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar = 1701346956091
+C:\Users\anaya\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar = 1701346958213
+C:\Users\anaya\.m2\repository\jakarta\validation\jakarta.validation-api\3.0.2\jakarta.validation-api-3.0.2.jar = 1701346957484
+C:\Users\anaya\.m2\repository\jakarta\interceptor\jakarta.interceptor-api\2.1.0\jakarta.interceptor-api-2.1.0.jar = 1701346958048
+C:\Users\anaya\.m2\repository\jakarta\enterprise\jakarta.enterprise.cdi-api\4.0.1\jakarta.enterprise.cdi-api-4.0.1.jar = 1701346957327
+C:\Users\anaya\.m2\repository\jakarta\enterprise\jakarta.enterprise.lang-model\4.0.1\jakarta.enterprise.lang-model-4.0.1.jar = 1701346958047
+C:\Users\anaya\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar = 1701346958046
+C:\Users\anaya\.m2\repository\jakarta\authentication\jakarta.authentication-api\3.0.0\jakarta.authentication-api-3.0.0.jar = 1701346958199
+C:\Users\anaya\.m2\repository\jakarta\security\enterprise\jakarta.security.enterprise-api\3.0.0\jakarta.security.enterprise-api-3.0.0.jar = 1701346958586
+C:\Users\anaya\.m2\repository\jakarta\jms\jakarta.jms-api\3.1.0\jakarta.jms-api-3.1.0.jar = 1701346958379
+C:\Users\anaya\.m2\repository\jakarta\activation\jakarta.activation-api\2.1.0\jakarta.activation-api-2.1.0.jar = 1701346958563
+C:\Users\anaya\.m2\repository\jakarta\mail\jakarta.mail-api\2.1.0\jakarta.mail-api-2.1.0.jar = 1701346959244
+C:\Users\anaya\.m2\repository\jakarta\resource\jakarta.resource-api\2.1.0\jakarta.resource-api-2.1.0.jar = 1701346959239
+C:\Users\anaya\.m2\repository\jakarta\authorization\jakarta.authorization-api\2.1.0\jakarta.authorization-api-2.1.0.jar = 1701346959466
+C:\Users\anaya\.m2\repository\jakarta\batch\jakarta.batch-api\2.1.1\jakarta.batch-api-2.1.1.jar = 1701346959545
+C:\Users\anaya\.m2\repository\org\apache\derbyclient\derby-client\10.14.2.0\derby-client-10.14.2.0.jar = 1702555358745
+C:\Users\anaya\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.core\2.7.10\org.eclipse.persistence.core-2.7.10.jar = 1702557017046
+C:\Users\anaya\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.asm\9.2.0\org.eclipse.persistence.asm-9.2.0.jar = 1702557018913
+C:\Users\anaya\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.antlr\2.7.10\org.eclipse.persistence.antlr-2.7.10.jar = 1702557017239
+C:\Users\anaya\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa\2.7.10\org.eclipse.persistence.jpa-2.7.10.jar = 1702557025445
+C:\Users\anaya\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa.jpql\2.7.10\org.eclipse.persistence.jpa.jpql-2.7.10.jar = 1702557025452
+C:\Users\anaya\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.moxy\2.7.10\org.eclipse.persistence.moxy-2.7.10.jar = 1702557020674
+C:\Users\anaya\.m2\repository\org\eclipse\persistence\jakarta.persistence\2.2.3\jakarta.persistence-2.2.3.jar = 1702557017545
+C:\Users\anaya\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa.modelgen.processor\2.7.10\org.eclipse.persistence.jpa.modelgen.processor-2.7.10.jar = 1702557017864
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\src\main\java = 1704544230858
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\allclasses-index.html = 1705061716345
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\allpackages-index.html = 1705061716351
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\element-list = 1705061716164
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\help-doc.html = 1705061716404
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\index-all.html = 1705061716391
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\index.html = 1705061716321
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\jquery-ui.overrides.css = 1705061716435
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\member-search-index.js = 1705061716361
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\module-search-index.js = 1705061716353
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\overview-summary.html = 1705061716395
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\overview-tree.html = 1705061716314
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\package-search-index.js = 1705061716356
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\script.js = 1705061716411
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\search.js = 1705061716415
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\serialized-form.html = 1705061716233
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\stylesheet.css = 1705061716408
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\tag-search-index.js = 1705061716363
+C:\Users\anaya\Downloads\BrailleConverterWeb_F5\BrailleConverterWeb\target\site\apidocs\type-search-index.js = 1705061716359

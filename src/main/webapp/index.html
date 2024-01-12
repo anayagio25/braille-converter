@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Braille Code Converter</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f4f4f4;
+                margin: 0;
+                padding: 0;
+            }
+
+            form {
+                max-width: 400px;
+                margin: 20px auto;
+                background-color: #fff;
+                padding: 20px;
+                border-radius: 8px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                max-width: 400px;
+                text-align: center;
+            }
+
+            h1 {
+                text-align: center;
+                color: #333;
+            }
+
+            p {
+                margin: 10px 0;
+            }
+
+            input[type="text"] {
+                width: 100%;
+                padding: 8px;
+                margin-top: 5px;
+                box-sizing: border-box;
+            }
+
+            input[type="submit"] {
+                width: 48%;
+                padding: 10px;
+                margin: 5px 1%;
+                box-sizing: border-box;
+                background-color: #28909c;
+                color: #fff;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+
+            }
+
+            input[type="submit"]:hover {
+                background-color: #14646e;
+            }
+            
+        </style>
+    </head>
+    <body>
+
+        <form action="Servlet" method="POST">
+            <h1>Braille Code Converter</h1>
+            <p>Text: <input type="text" name="input" value="" /></p>
+            <p><input type="submit" value="Convert To Braille" name="buttonClicked" id="ToBraille"/>
+                <input type="submit" value="Convert To Text" name="buttonClicked" id="ToText" />
+            </p>
+        </form>
+        <form action="History" method="GET">
+            <p><input type="submit" value="History" name="history"/></p>
+        </form>
+        <form action="DBHistoryServlet" method="POST">
+            <input type="submit" value="Database History" name="dbHistory"/>
+        </form>
+    </body>
+</html>

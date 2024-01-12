@@ -1,0 +1,8 @@
+pl\polsl\servlets\giovanaanaya\DBHistoryServlet.class
+pl\polsl\braillemodel\giovanaanaya\BrailleModel.class
+pl\polsl\braillemodel\giovanaanaya\HistoryEntity.class
+pl\polsl\braillemodel\giovanaanaya\Operations.class
+pl\polsl\braillemodel\giovanaanaya\BrailleMap.class
+pl\polsl\servlets\giovanaanaya\HistoryServlet.class
+pl\polsl\braillemodel\giovanaanaya\BrailleModel$ModelException.class
+pl\polsl\servlets\giovanaanaya\BrailleServlet.class
